@@ -1,7 +1,7 @@
 # recolor
 A small piece of code that recolors an image using the coloring style of another image. 
 ### Installation:
-Download the whole repository and run 
+Download the whole repository and run the following command in the root folder:
 ```bash
 pip install -r requirements.txt
 ```
