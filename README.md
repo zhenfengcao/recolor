@@ -3,8 +3,8 @@ A small piece of code that recolors an image using the coloring style of another
 ### Usage:
 If I want to recolor the image "logo.png" using the color of the image "plants.jpg", I just need to run the following piece of code:
 ```python
-from recolor import Recolor <br>
-c = Recolor('plants.jpg') # train the model to get the coloring style of "plants.jpg" <br>
+from recolor import Recolor
+c = Recolor('plants.jpg') # train the model to get the coloring style of "plants.jpg"
 c.recolor('logo.png')
 ```
 
