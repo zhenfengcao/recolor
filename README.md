@@ -1,5 +1,10 @@
 # recolor
 A small piece of code that recolors an image using the coloring style of another image. 
+### Installation:
+Download the whole repository and run 
+```bash
+pip install -r requirements.txt
+```
 ### Usage:
 If I want to recolor the image "logo.png" using the color of the image "plants.jpg", I just need to run the following piece of code:
 ```python
